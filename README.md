@@ -1,18 +1,18 @@
 Issues
 ======
 
-This repository is designed for players to report server bugs pertaining to the Clan MC server. We encourage collaboration in order to determine the cause of an issue. Please follow the guidelines below.
+This repository is designed for players to report server bugs pertaining to the Project Hive MC server. We encourage collaboration in order to determine the cause of an issue. Please follow the guidelines below.
 
 ### Important:
 
 If you find an exploit or other bug that could cause major issues, please consider the following:
 
-1. Privately contact an Administrator or Developer about the issue.
+1. Privately contact an Administrator, Manager or Developer about the issue.
 2. **Do not** disclose the issue to the public without allowing time for our staff to fix the issue.
 
 ## Submitting
 
-Issues can be [submitted](https://github.com/Clan-MC/Issues/issues/new) at the [issue tracker](https://github.com/Clan-MC/Issues/issues).
+Issues can be [submitted](https://github.com/Project-Hive/Issues/issues/new) at the [issue tracker](https://github.com/Project-Hive/Issues/issues).
 
 ### Do:
 
